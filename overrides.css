@@ -1,0 +1,28 @@
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1380px
+  }
+}
+
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-color: #b8e8dd;
+  background-image: linear-gradient(217deg, #b8e8dd 21%, #c1c9de 73%);
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron {
+  background-color: inherit;
+}
+
+.list-group-item {
+  background-color: inherit;
+}
