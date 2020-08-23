@@ -9,8 +9,6 @@ body, html {
 }
 
 .bg {
-  background-color: #b8e8dd;
-  /*background-image: linear-gradient(217deg, #b8e8dd 21%, #c1c9de 73%);*/
   /* Full height */
   height: 100%;
   /* Center and scale the image nicely */
@@ -20,7 +18,6 @@ body, html {
 }
 
 .jumbotron {
-  background-color: inherit;
   padding: 1rem 2rem;
   margin-bottom: 1rem;
 }
@@ -30,7 +27,7 @@ body, html {
 }
 
 p.font-color-grey {
-  color: #7a8087;
+  color: #7a7d96;
 }
 
 p.no-bottom-margin {
