@@ -4,6 +4,19 @@
   }
 }
 
+.print-me {
+  display: none;
+}
+
+@media print {
+  .no-print {
+    display: none;
+  }
+  .print-me {
+    display: block;
+  }
+}
+
 body, html {
   height: 100%;
 }
