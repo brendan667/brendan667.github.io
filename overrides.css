@@ -57,6 +57,10 @@ p.no-bottom-margin {
   margin-bottom: unset;
 }
 
+p.small-bottom-margin {
+  margin-bottom: 0.5em;
+}
+
 p {
   font-weight: 500;
   font-size: 0.75em
@@ -74,8 +78,12 @@ div.progress-bar-padding {
   padding: 0.3rem;
 }
 
-div.row-tight-progress-bar {
+div.row-tight {
   margin-bottom: -1.0rem;
+}
+
+div.row-tight-2 {
+  margin-bottom: -0.8rem;
 }
 
 .badge-linkedin {
